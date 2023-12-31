@@ -1,6 +1,6 @@
 # Snake-Game
 
-[!screenshot](https://github.com/arpit2212/Snake-Game/blob/main/Screenshot%202023-12-31%20161236.png)
+![screenshot](https://github.com/arpit2212/Snake-Game/blob/main/Screenshot%202023-12-31%20161236.png)
 
 # Overview
 
